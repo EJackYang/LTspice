@@ -1,0 +1,20 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -61 -57 62 66
+WINDOW 0 -2 -60 Bottom 2
+WINDOW 3 2 77 Top 2
+SYMATTR Prefix X
+SYMATTR Value REF192
+SYMATTR ModelFile C:\Users\Jacky\Desktop\LT_Learn\Thirdpartylib\REF192\ref192.cir
+PIN -64 -16 LEFT 8
+PINATTR PinName IN
+PINATTR SpiceOrder 1
+PIN -64 32 LEFT 8
+PINATTR PinName SH
+PINATTR SpiceOrder 2
+PIN 64 -16 RIGHT 8
+PINATTR PinName GND
+PINATTR SpiceOrder 3
+PIN 64 32 RIGHT 8
+PINATTR PinName OUT
+PINATTR SpiceOrder 4

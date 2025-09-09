@@ -1,0 +1,6 @@
+C:\Users\Jacky\Desktop\LT_Learn\Draft4.net(6): Expected expression here.
+.meas ac Fc_0 when mag(-3dB)
+                            ^
+C:\Users\Jacky\Desktop\LT_Learn\Draft4.net(6): syntax error
+.meas ac Fc_0 when mag(-3dB)
+             ^^^^^^^^^^^^^^^
