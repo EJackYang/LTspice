@@ -1,0 +1,11 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -80 -32 80 65
+TEXT -70 16 Left 2 Test_RRAA
+WINDOW 0 -25 -37 Bottom 2
+PIN 0 -32 TOP 8
+PINATTR PinName AA
+PINATTR SpiceOrder 1
+PIN 0 64 BOTTOM 8
+PINATTR PinName BB
+PINATTR SpiceOrder 2

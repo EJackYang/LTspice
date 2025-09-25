@@ -1,0 +1,46 @@
+* Date 2007/10/09
+* Build_code 003
+* BU X35
+* SBU Bip-Tr
+* Production_name 2SC5784
+* Rank 
+* Frequency LF
+* Model STD
+* Format PSPICE
+*
+*
+*
+*
+*
+*$
+*PART NUMBER: 2SC5784
+*VCEO=20V, IC=1.5A
+*
+.MODEL Q2SC5784 NPN
++ IS=101.46E-15
++ BF=999.10
++ VAF=17.956
++ IKF=2.5360
++ ISE=101.46E-15
++ NE=1.7406
++ BR=163.01
++ VAR=2.0170
++ IKR=11.254
++ ISC=331.03E-12
++ NC=2.8275
++ NK=.65653
++ RB=7.8325
++ RC=.10283
++ CJE=66.466E-12
++ VJE=.73493
++ MJE=.3617
++ CJC=21.351E-12
++ VJC=.58157
++ MJC=.33213
++ TF=400.00E-12
++ XTF=10
++ VTF=10
++ ITF=1
++ TR=2.9500E-9
+*$
+

@@ -1,0 +1,4 @@
+* .SAVEBIAS from circuit: * C:\Users\shibu\Desktop\TOP\_5__Publishing\Ohm-Sha\LTspice__4th-Ed_Draft\Rev4_ASC\Chap_03\Fig_3-39_savebias_RRC.asc
+
+* time=2.50339e-006
+.nodeset V(a)=10 V(b)=9.342636449 V(e)=7.370545795 V(c)=8.685272897 V(d)=8.027909346
